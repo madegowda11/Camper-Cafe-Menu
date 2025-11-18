@@ -1,4 +1,4 @@
-# Camper-Caf-Menu
+# Camper-Cafe-Menu
 Project Narrative
 
 This repository is a deployment-ready, pixel-perfect implementation of the “Café Menu” project from FreeCodeCamp’s Responsive Web Design curriculum.
@@ -29,20 +29,6 @@ Styling hierarchy, typography mapping, UI primitives
 External resource integration and address semantics
 
 Shipping production-grade frontend assets
-
-🛠️ How to Spin It Up
-
-Clone the repo:
-
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-
-
-Launch locally:
-
-Open index.html in browser
-
-
-No build steps. No NPM drama. Just send it.
 
 🔗 Project Origin
 
